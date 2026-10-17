@@ -90,7 +90,7 @@ def guardar_reservas(reservas):
 
 
 # ==============================================================
-# FUNCIONES AUXILIARES PARA TRABAJAR CON FECHAS
+# FUNCIONES AUXILIARES  PARA TRABAJAR CON FECHAS
 # ==============================================================
 
 def crear_clave_fecha(dia):
